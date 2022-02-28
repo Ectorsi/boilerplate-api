@@ -1,1 +1,1 @@
-# boilerplate-api
+# covid-api
